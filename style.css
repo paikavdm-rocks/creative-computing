@@ -1,15 +1,7 @@
-/* style.css */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+html, body {
+  margin: 0;
+  padding: 0;
 }
-
-h1 {
-    color: #333;
+canvas {
+  display: block;
 }
